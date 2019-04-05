@@ -1,3 +1,8 @@
+/* Program that allows you to encrypt messages using Caesar's cipher. 
+Key is provided as command line argument.
+*/
+
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
